@@ -1,0 +1,22 @@
+syntax: glob
+*~
+*.pyc
+*.pyo
+.DS_Store
+.nose
+*.egg-info
+*.bak
+*.rej
+*$py.class
+*.orig
+example.cfg
+.coverage
+nosetests.xml
+xunit.xml
+support/cover/*
+_env
+doc/.build
+dist
+build
+.noseids
+.tox
